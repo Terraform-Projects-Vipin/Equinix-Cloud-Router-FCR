@@ -1,0 +1,9 @@
+ecx_client_id = "<enter your equinix client ID>"
+ecx_client_secret = "<enter your client secret ID>"
+type                  = "XF_ROUTER"
+metro_code            = "SG" #Enter which ever is your location. 
+emails                = "<enter your mail ID>"
+purchase_order_number = "<enter your purchase order>
+code                  = "STANDARD"
+project_id            = "<enter your Equinix project ID>"
+account_number        = "<enter your Equinix account number>"

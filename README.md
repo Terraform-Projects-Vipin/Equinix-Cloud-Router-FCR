@@ -1,1 +1,3 @@
 # Equinix-Cloud-Router-FCR...
+
+# This code is  to spin up Equinix FCR 
